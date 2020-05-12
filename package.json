@@ -1,0 +1,17 @@
+{
+  "name": "polygon-geohash",
+  "version": "1.0.0",
+  "description": "This library can be used to convert a GeoJSON MultiPolygon or Polygon into a list of geohashes that form it.",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Wajeeh Misbah Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {}
+}
