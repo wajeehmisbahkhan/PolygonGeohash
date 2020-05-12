@@ -2,8 +2,8 @@
 
 > This library can be used to convert a GeoJSON MultiPolygon or Polygon into a list of geohashes that form it.
 
-[![NPM Version][npm-image]][npm-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![NPM Version][npm-image]][https://www.npmjs.com/package/polygongeohash]
+[![Downloads Stats][npm-downloads]][https://www.npmjs.com/package/polygongeohash]
 
 This code and working for this library is ~~stolen~~ inspired from: https://github.com/marcelreppi/shape2geohash
 
@@ -39,7 +39,7 @@ npm test
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/wajeehmisbahkhan/polygongeohash/fork>)
 2. Create your feature branch (`git checkout -b feature/foo-bar`)
 3. Commit your changes (`git commit -am 'Add some foo-bar'`)
 4. Push to the branch (`git push origin feature/foo-bar`)
