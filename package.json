@@ -5,13 +5,21 @@
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "serve": "ts-node src/index.ts"
   },
   "keywords": [],
   "author": "Wajeeh Misbah Khan",
   "license": "MIT",
   "devDependencies": {
+    "@types/ngeohash": "^0.6.2",
+    "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@turf/nearest-point-to-line": "^6.0.0",
+    "@turf/point-to-line-distance": "^6.0.0",
+    "@turf/turf": "^5.1.6",
+    "ngeohash": "^0.6.3"
+  }
 }
