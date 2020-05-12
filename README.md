@@ -14,7 +14,7 @@ The reason for its creation is that the given library was specifically made for 
 To install in your project:
 
 ```
-npm install polygon-geohash --save
+npm install polygongeohash --save
 ```
 
 ## Usage example
