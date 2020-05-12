@@ -5,7 +5,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-This code and working for this library is ~~stolen~~ inspired from: https://github.com/derrickpelletier/geohash-poly
+This code and working for this library is ~~stolen~~ inspired from: https://github.com/marcelreppi/shape2geohash
 
 The reason for its creation is that the given library was specifically made for the backend and I needed to use it in a front end project but couldn't get it to work.
 
