@@ -1,7 +1,7 @@
 {
   "name": "polygongeohash",
   "version": "1.0.0",
-  "description": "This library can be used to convert a GeoJSON MultiPolygon or Polygon into a list of geohashes that form it.",
+  "description": "This library can be used on the frontend to convert a GeoJSON MultiPolygon or Polygon into a list of geohashes that form it.",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
